@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6fccf61-4cd8-4398-a65d-4fff036944e4" name="Default" comment="&quot;Lab1&quot;">
+    <list default="true" id="a6fccf61-4cd8-4398-a65d-4fff036944e4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lab1/travnich/src/Viewer$1.class" afterPath="$PROJECT_DIR$/out/production/Lab1/travnich/src/Viewer$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lab1/travnich/src/Viewer.class" afterPath="$PROJECT_DIR$/out/production/Lab1/travnich/src/Viewer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/travnich/src/Viewer.java" afterPath="$PROJECT_DIR$/src/travnich/src/Viewer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -338,6 +337,14 @@
       <option name="presentableId" value="Default" />
       <updated>1518614078901</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Lab1&quot;">
+      <created>1520091152955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520091152955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
