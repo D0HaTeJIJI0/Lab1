@@ -5,8 +5,6 @@ import travnich.entity.Student;
 import travnich.enums.ResultType;
 import travnich.enums.VerdictType;
 import travnich.lib.Controller;
-
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
